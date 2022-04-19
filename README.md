@@ -1,4 +1,4 @@
-# Realtime Chat Application
+# Real Estate Application
 
 ### [Live Site](https://real-estate-olive.vercel.app)
 
